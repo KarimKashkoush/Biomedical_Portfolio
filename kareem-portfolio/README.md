@@ -65,7 +65,7 @@ The loading screen waits for the portrait and fonts, with a 650 ms minimum and a
 
 The contact form validates required fields and opens the visitor's email application with a draft. It does not send messages or store personal data. Direct email, phone, and LinkedIn links are also available. Fonts load from Google Fonts with local Arial fallbacks.
 
-The source CV lists BM-Egypt as a current position; that wording is preserved. Dates and other CV facts should be kept up to date by the owner.
+The updated CV lists BM-Egypt from September 2025 to June 2026; both language versions reflect this.
 
 ## تصميم الموقع
 
